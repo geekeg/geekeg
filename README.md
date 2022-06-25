@@ -19,3 +19,4 @@ You can click the Preview link to take a look at your changes.
   - Express Js
   - API
   - Version Control
+  - EJS
